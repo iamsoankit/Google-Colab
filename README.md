@@ -1,3 +1,3 @@
 # Google-Colab
 
-Starting out my Python learning through Gbogle Colab
+Starting out my Python learning through Google Colab
